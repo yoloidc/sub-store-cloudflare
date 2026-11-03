@@ -164,3 +164,6 @@ http://localhost:8787/#token=dev-admin-token
 本项目参考并致敬 [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store)。原版覆盖更广的运行环境和功能；本仓库专注可直接部署的 Cloudflare-native 兼容版本。
 
 见 [LICENSE](LICENSE) 和 [NOTICE](NOTICE)。
+
+
+> Deployed via Cloudflare Workers Builds.
